@@ -1,4 +1,4 @@
-# 🚕 Surviving Knight
+# ⚔️🛡️ Surviving Knight
 
 Um jogo que desenvolvi e publiquei no itch.io.
 
